@@ -1,4 +1,5 @@
-**Authentication & User Management Service**
+<img width="1366" height="768" alt="Screenshot (888)" src="https://github.com/user-attachments/assets/772a60f0-11ef-405a-a715-48a9b24b28ae" />**Authentication & User Management Service**
+
 A backend-only Authentication and User Management system built using Python, Flask, MySQL, and JWT, following RESTful API standards.
 This project focuses on secure authentication, role-based access control, and production-ready backend architecture.
 
@@ -22,21 +23,21 @@ All APIs are tested using Postman and data is persisted in MySQL.
 
 **Tech Stack**
 1] Backend
- . Python
- . Flask
- . RESTful APIs
+   Python
+ , Flask
+ , RESTful APIs
 
 2] Database
-  . MySQL
+   MySQL
 
 3] Authentication & Security
-  . JWT (JSON Web Tokens)
-  . Password Hashing (Werkzeug)
-  . Role-Based Access Control (RBAC)
+    JWT (JSON Web Tokens)
+  , Password Hashing (Werkzeug)
+  , Role-Based Access Control (RBAC)
 
 4] Tools
-  . Postman (API Testing)
-  . Git & GitHub
+    Postman (API Testing)
+  , Git & GitHub
   
 **What This Project Provides**
 
@@ -53,3 +54,9 @@ All APIs are tested using Postman and data is persisted in MySQL.
  . Backend-only architecture
 
  . DevOps-ready backend design
+
+ <img width="1366" height="768" alt="Screenshot (888)" src="https://github.com/user-attachments/assets/74d7f1ee-d77f-4139-b947-6c66a7240462" />
+ 1] Register API (POST /register)
+
+<img width="1366" height="768" alt="Screenshot (889)" src="https://github.com/user-attachments/assets/f04b6e6c-1497-46ba-9afa-8f78bce53acc" />
+2] Login API (POST /login) with Token Response

@@ -1,0 +1,93 @@
+2025-12-15 14:59:49,463 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-15 14:59:49,463 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 14:59:49,466 - INFO -  * Restarting with stat
+2025-12-15 14:59:49,961 - WARNING -  * Debugger is active!
+2025-12-15 14:59:49,967 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 15:01:23,866 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-15 15:01:23,866 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-15 15:01:23,867 - INFO -  * Restarting with stat
+2025-12-15 15:01:24,277 - WARNING -  * Debugger is active!
+2025-12-15 15:01:24,286 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 15:06:31,285 - INFO - 127.0.0.1 - - [15/Dec/2025 15:06:31] "GET / HTTP/1.1" 200 -
+2025-12-15 15:06:32,566 - INFO - 127.0.0.1 - - [15/Dec/2025 15:06:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-15 15:10:09,506 - INFO - package: mysql.connector.plugins
+2025-12-15 15:10:09,506 - INFO - plugin_name: caching_sha2_password
+2025-12-15 15:10:09,506 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-15 15:10:09,527 - INFO - 127.0.0.1 - - [15/Dec/2025 15:10:09] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2025-12-15 15:10:39,101 - INFO - 127.0.0.1 - - [15/Dec/2025 15:10:39] "POST /login HTTP/1.1" 200 -
+2025-12-15 15:12:28,514 - INFO - 127.0.0.1 - - [15/Dec/2025 15:12:28] "[31m[1mGET /users HTTP/1.1[0m" 401 -
+2025-12-15 15:14:51,190 - INFO - 127.0.0.1 - - [15/Dec/2025 15:14:51] "[31m[1mGET /users HTTP/1.1[0m" 401 -
+2025-12-15 15:17:59,393 - INFO - 127.0.0.1 - - [15/Dec/2025 15:17:59] "[31m[1mGET /users/1 HTTP/1.1[0m" 405 -
+2025-12-15 15:18:08,147 - INFO - 127.0.0.1 - - [15/Dec/2025 15:18:08] "[31m[1mGET /users HTTP/1.1[0m" 401 -
+2025-12-15 15:20:37,335 - INFO - 127.0.0.1 - - [15/Dec/2025 15:20:37] "[31m[1mGET /users HTTP/1.1[0m" 403 -
+2025-12-15 15:26:48,135 - INFO - 127.0.0.1 - - [15/Dec/2025 15:26:48] "[31m[1mGET /users HTTP/1.1[0m" 403 -
+2025-12-15 15:26:57,799 - INFO - 127.0.0.1 - - [15/Dec/2025 15:26:57] "[31m[1mGET /users/1 HTTP/1.1[0m" 405 -
+2025-12-15 15:27:49,801 - INFO - 127.0.0.1 - - [15/Dec/2025 15:27:49] "POST /login HTTP/1.1" 200 -
+2025-12-15 15:28:38,372 - INFO - 127.0.0.1 - - [15/Dec/2025 15:28:38] "GET /users HTTP/1.1" 200 -
+2025-12-15 15:31:59,145 - INFO - 127.0.0.1 - - [15/Dec/2025 15:31:59] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2025-12-15 15:32:24,366 - INFO - 127.0.0.1 - - [15/Dec/2025 15:32:24] "GET /users HTTP/1.1" 200 -
+2025-12-15 15:32:56,506 - INFO - 127.0.0.1 - - [15/Dec/2025 15:32:56] "[31m[1mGET /users/2 HTTP/1.1[0m" 405 -
+2025-12-15 16:25:45,363 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:25:45,371 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:25:45,531 - INFO -  * Restarting with stat
+2025-12-15 16:25:45,533 - INFO -  * Restarting with stat
+2025-12-15 16:25:47,098 - WARNING -  * Debugger is active!
+2025-12-15 16:25:47,122 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:25:47,122 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:26:43,474 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:26:43,480 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:26:43,541 - INFO -  * Restarting with stat
+2025-12-15 16:26:43,547 - INFO -  * Restarting with stat
+2025-12-15 16:26:44,158 - WARNING -  * Debugger is active!
+2025-12-15 16:26:44,168 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:26:44,168 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:27:12,334 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:27:12,386 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:27:12,392 - INFO -  * Restarting with stat
+2025-12-15 16:27:12,463 - INFO -  * Restarting with stat
+2025-12-15 16:27:12,997 - WARNING -  * Debugger is active!
+2025-12-15 16:27:13,008 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:27:13,043 - WARNING -  * Debugger is active!
+2025-12-15 16:27:13,055 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:28:20,285 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:28:20,301 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:28:20,363 - INFO -  * Restarting with stat
+2025-12-15 16:28:20,385 - INFO -  * Restarting with stat
+2025-12-15 16:28:20,960 - WARNING -  * Debugger is active!
+2025-12-15 16:28:20,968 - WARNING -  * Debugger is active!
+2025-12-15 16:28:20,969 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:28:20,977 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:28:49,367 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:28:49,432 - INFO -  * Restarting with stat
+2025-12-15 16:28:49,451 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:28:49,530 - INFO -  * Restarting with stat
+2025-12-15 16:28:50,079 - WARNING -  * Debugger is active!
+2025-12-15 16:28:50,088 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:28:50,123 - WARNING -  * Debugger is active!
+2025-12-15 16:28:50,132 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:29:13,325 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:29:13,366 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:29:13,376 - INFO -  * Restarting with stat
+2025-12-15 16:29:13,431 - INFO -  * Restarting with stat
+2025-12-15 16:29:13,960 - WARNING -  * Debugger is active!
+2025-12-15 16:29:13,973 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:29:14,027 - WARNING -  * Debugger is active!
+2025-12-15 16:29:14,040 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:29:29,589 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:29:29,599 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:29:29,660 - INFO -  * Restarting with stat
+2025-12-15 16:29:29,674 - INFO -  * Restarting with stat
+2025-12-15 16:29:30,355 - WARNING -  * Debugger is active!
+2025-12-15 16:29:30,355 - WARNING -  * Debugger is active!
+2025-12-15 16:29:30,365 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:29:30,365 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:29:45,633 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:29:45,700 - INFO -  * Restarting with stat
+2025-12-15 16:29:45,766 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\python_L\\auth_service\\utils\\prac.py', reloading
+2025-12-15 16:29:45,835 - INFO -  * Restarting with stat
+2025-12-15 16:29:46,353 - WARNING -  * Debugger is active!
+2025-12-15 16:29:46,362 - INFO -  * Debugger PIN: 976-274-778
+2025-12-15 16:29:46,458 - WARNING -  * Debugger is active!
+2025-12-15 16:29:46,470 - INFO -  * Debugger PIN: 976-274-778

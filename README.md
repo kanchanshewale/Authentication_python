@@ -22,15 +22,18 @@ This project focuses on secure authentication, role-based access control, and pr
 All APIs are tested using Postman and data is persisted in MySQL.
 
 **Tech Stack**
+
 1] Backend
  - Python
  , Flask
  , RESTful APIs
 
 2] Database
-   MySQL
+
+   . MySQL
 
 3] Authentication & Security
+
   - JWT (JSON Web Tokens)
   , Password Hashing (Werkzeug)
   , Role-Based Access Control (RBAC)
@@ -54,6 +57,9 @@ All APIs are tested using Postman and data is persisted in MySQL.
  . Backend-only architecture
 
  . DevOps-ready backend design
+ 
+
+   **some postman tested SS-**
 
  <img width="1366" height="768" alt="Screenshot (888)" src="https://github.com/user-attachments/assets/74d7f1ee-d77f-4139-b947-6c66a7240462" />
                                                 1] Register API (POST /register)

@@ -30,7 +30,7 @@ All APIs are tested using Postman and data is persisted in MySQL.
 
 2] Database
 
-   . MySQL
+  -  MySQL
 
 3] Authentication & Security
 
@@ -44,19 +44,19 @@ All APIs are tested using Postman and data is persisted in MySQL.
   
 **What This Project Provides**
 
- . RESTful API development
+ - RESTful API development
 
- . Secure authentication system
+ - Secure authentication system
  
- . JWT-based authorization & RBAC
+ - JWT-based authorization & RBAC
 
- . Secure password handling
+ - Secure password handling
 
- . MySQL database integration
+ - MySQL database integration
 
- . Backend-only architecture
+ - Backend-only architecture
 
- . DevOps-ready backend design
+ - DevOps-ready backend design
  
 
    **some postman tested SS-**
